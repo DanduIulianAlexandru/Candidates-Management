@@ -9,5 +9,6 @@ int main(int argc, char** argv) {
     Gui mainWindow{Srv};
     mainWindow.show();
     a.exec();
+    cout << "pula";
     return 0;
 }
