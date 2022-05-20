@@ -38,3 +38,6 @@
 5	5217	6747300375003490	CMakeFiles/simulare.dir/main.cpp.obj	3ce37ca911aa65be
 11	5367	6747300376569121	CMakeFiles/simulare.dir/Gui.cpp.obj	195b7225e552a9ce
 5367	5599	6747300378764891	simulare.exe	e70d413a7d8d8ad1
+14	358	6747358798849624	CMakeFiles/simulare.dir/Candidat.cpp.obj	343f8075979eebc2
+5	10041	6747358895661371	CMakeFiles/simulare.dir/main.cpp.obj	3ce37ca911aa65be
+10041	10408	6747358899193029	simulare.exe	e70d413a7d8d8ad1
