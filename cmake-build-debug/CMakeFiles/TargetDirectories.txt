@@ -1,0 +1,3 @@
+C:/Users/dandu/CLionProjects/simulare/cmake-build-debug/CMakeFiles/simulare.dir
+C:/Users/dandu/CLionProjects/simulare/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dandu/CLionProjects/simulare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
